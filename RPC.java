@@ -1,4 +1,11 @@
+/* This is my attempt to make a rock paper scissors game in Java. I'd say it's scuffed and still doesn't use a try-catch to catch for input errors.
 
+To-Improve List:
+1. Implement Try-Catch
+2. Find another way to make line 47 not use System.exit
+
+
+*/
 import java.util.Random;
 import java.util.Scanner;
 
@@ -147,4 +154,5 @@ public class RPC
             System.out.println(botChoice);
         } */
         
+
 }
